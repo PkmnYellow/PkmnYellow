@@ -1,5 +1,5 @@
 Hello! Just some guy that codes as a hobby. 
-I'm very familiar with Batch scripting, a little bit of Bash, barely any Powershell, and wants to learn Python more extensively.
+I'm very familiar with Batch scripting, a little bit of Bash, barely any Powershell, and really want to learn Python more extensively.
 
 
 
